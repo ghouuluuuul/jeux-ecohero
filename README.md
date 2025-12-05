@@ -1,1 +1,2 @@
 # jeux-ecohero
+Plonge dans un monde où chaque action compte pour sauver notre planète ! Dans ce jeu éducatif et divertissant, tu devras relever des défis pour protéger l’environnement, recycler intelligemment, économiser les ressources et combattre la pollution. Explore différents niveaux, découvre des écosystèmes fragiles et apprends des gestes simples mais puissants pour un mode de vie durable. Chaque décision que tu prends influence l’équilibre de la nature autour de toi. Prépare-toi à devenir un véritable héros écologique !
